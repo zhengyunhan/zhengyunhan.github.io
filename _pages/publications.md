@@ -8,42 +8,23 @@ These works provide an overview of my research.
 
 ## Fairness-Enhancing Machine Learning 
 
-![text](/images/profile.png){: .align-left width="100px" style="margin-right: 20px;"}
+<!-- ![text](/images/profile.png){: .align-left width="100px" style="margin-right: 20px;"} -->
+
+<figure class="align-left" style="width: 100px; padding-right: 20px;">
+  <img src="/images/profile.png" alt="Your Figure">
+  <figcaption>Figure 1: Your Figure Caption</figcaption>
+</figure>
 
 * <u>Zheng, Y.*</u>, Wang, S., & Zhao, J. (2021). **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**. <i> Transportation Research Part C: Emerging Technologies, 132,</i> 103410. Full text available at <a href="https://doi.org/10.1016/j.trc.2021.103410"> https://doi.org/10.1016/j.trc.2021.103410 </a>.
 
-![text](/images/profile.png){: .align-left width="100px" style="margin-right: 20px;"}
+![text](/images/profile.png){: .align-left width="200px" style="margin-right: 20px;"}
 
 * <u>Zheng, Y.*</u>, Wang, S., & Zhao, J. (2021). **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**. <i> Transportation Research Part C: Emerging Technologies, 132,</i> 103410. Full text available at <a href="https://doi.org/10.1016/j.trc.2021.103410"> https://doi.org/10.1016/j.trc.2021.103410 </a>.
 
-![text](/images/profile.png){: .align-left width="100px" style="margin-right: 20px;"}
+![text](/images/profile.png){: .align-left width="200px" style="margin-right: 20px;"}
 
 * <u>Zheng, Y.*</u>, Wang, S., & Zhao, J. (2021). **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**. <i> Transportation Research Part C: Emerging Technologies, 132,</i> 103410. Full text available at <a href="https://doi.org/10.1016/j.trc.2021.103410"> https://doi.org/10.1016/j.trc.2021.103410 </a>.
 
-![text](/images/profile.png){: .align-left width="100px" style="margin-right: 20px;"}
+![text](/images/profile.png){: .align-left width="200px" style="margin-right: 20px;"}
 
 * <u>Zheng, Y.*</u>, Wang, S., & Zhao, J. (2021). **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**. <i> Transportation Research Part C: Emerging Technologies, 132,</i> 103410. Full text available at <a href="https://doi.org/10.1016/j.trc.2021.103410"> https://doi.org/10.1016/j.trc.2021.103410 </a>.
-<!-- **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**
-
-Yunhan Zheng, Shenhao Wang*, Jinhua Zhao
-
-<i> Transportation Research Part C: Emerging Technologies</i>, 2021 
-
-<a href="https://doi.org/10.1016/j.trc.2021.103410"> https://doi.org/10.1016/j.trc.2021.103410 </a>
-
-
-
-## Causal Inference and Transportation Policies
-
-
-## Behavior Science and Demand Modeling
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
