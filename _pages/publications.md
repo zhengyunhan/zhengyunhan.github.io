@@ -16,7 +16,7 @@ These works provide an overview of my research.
 
 ## Behavior Science and Demand Modeling
 
-<!-- {% if author.googlescholar %}
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -24,4 +24,4 @@ These works provide an overview of my research.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
