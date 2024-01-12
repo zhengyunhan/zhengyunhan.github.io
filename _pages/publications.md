@@ -5,7 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+## Fairness-Enhancing Machine Learning 
+
+These works provide an overview of my research.
+
+* **Zheng, Y.**, Wang, S., & Zhao, J. (2021). Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models. Transportation Research Part C: Emerging Technologies, 132, 103410. </i> Full text available at <a href="https://doi.org/10.1016/j.trc.2021.103410"> Transportation Research Part C: Emerging Technologies </a>
+
+## Causal Inference and Transportation Policies
+
+
+## Behavior Science and Demand Modeling
+
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,4 +24,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
