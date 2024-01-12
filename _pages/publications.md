@@ -22,6 +22,6 @@ These works provide an overview of my research.
 
 {% include base_path %}
 
-{% for post in site.publication reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
