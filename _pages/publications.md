@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publications/fairness-ml/
 author_profile: true
 ---
 
@@ -22,6 +22,6 @@ These works provide an overview of my research.
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.publications.fairness-ml reversed %}
   {% include archive-single.html %}
 {% endfor %}
