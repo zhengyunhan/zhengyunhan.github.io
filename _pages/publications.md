@@ -15,7 +15,9 @@ These works provide an overview of my research.
   <figcaption>Figure 1: Your Figure Caption</figcaption>
 </figure> -->
 
-* <u>Zheng, Y.*</u>, Wang, S., & Zhao, J. (2021). **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**. <i> Transportation Research Part C: Emerging Technologies, 132,</i> 103410. Full text available at <a href="https://doi.org/10.1016/j.trc.2021.103410"> <u>link</u> </a>.
+* <u>Zheng, Y.*</u>, Wang, S., & Zhao, J. (2021). **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**. <i> Transportation Research Part C: Emerging Technologies, 132,</i> 103410. <a href="https://doi.org/10.1016/j.trc.2021.103410"> <u>[Paper]</u> </a>.
+
+* <u>Zheng, Y.*</u>, Wang, Q., Zhuang, D., Wang, S., & Zhao, J. (2023). **Fairness-enhancing deep learning for ride-hailing demand prediction**. <i> IEEE Open Journal of Intelligent Transportation Systems, 4, </i> 551 - 569. <a href="https://doi.org/10.1109/OJITS.2023.3297517"> <u>[Paper]</u> </a>.
 
 
 <!-- * <u>Zheng, Y.*</u>, Wang, S., & Zhao, J. (2021). **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**. <i> Transportation Research Part C: Emerging Technologies, 132,</i> 103410. Full text available at <a href="https://doi.org/10.1016/j.trc.2021.103410"> https://doi.org/10.1016/j.trc.2021.103410 </a>.
