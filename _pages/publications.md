@@ -31,7 +31,7 @@ These works provide an overview of my research.
 
 * <u>Zheng, Y.</u>, Wang, S.*, Liu, L., Aloisi, J. & Zhao, J.  **Impacts of remote work on vehicle miles traveled and transit ridership in the United States**. Under review in <i> Nature Cities</i>.
 
-* Wang, S.<sup>1<sup>*, <u>Zheng, Y.<sup>1<sup></u>, Wang, G., Yabe, T., Moro, E.* & Pentland, A.  **Infrequent activities predict economic outcomes in major American cities**. Under review in <i> Nature Cities</i>.
+* Wang, S.<sup>1</sup>*, <u>Zheng, Y.<sup>1</sup></u>, Wang, G., Yabe, T., Moro, E.* & Pentland, A.  **Infrequent activities predict economic outcomes in major American cities**. Under review in <i> Nature Cities</i>.
 
 ## Travel Decisions and Demand Modeling
 * <u>Zheng, Y.</u>, Kong, H.*, Petzhold, G., Barcelos, M. M., Zegras, C. P., & Zhao, J. (2021). **User satisfaction and service quality improvement priority of bus rapid transit in Belo Horizonte, Brazil**. <i> Case Studies on Transport Policy, 9</i> (4), 1900-1911. <a href="https://doi.org/10.1016/j.cstp.2021.10.011"> [Paper]</a>
