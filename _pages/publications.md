@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-These works provide an overview of my research. (* indicates the corresponding author).
+These works provide an overview of my research. 
+
+(* indicates the corresponding author).
 ## Fairness-Enhancing Machine Learning 
 
 <!-- ![text](/images/profile.png){: .align-left width="100px"; padding-right: "20px"} -->
@@ -27,7 +29,9 @@ These works provide an overview of my research. (* indicates the corresponding a
 
 * Fang, W., <u>Zheng, Y.</u>, Diao, M., & Zhao, J. (2021). **Dispersion of agglomeration through high-speed rail in China**. In <i> Urban Form and Accessibility</i> (pp. 327-357). Elsevier. <a href="https://doi.org/10.1016/B978-0-12-819822-3.00012-2"> [Paper]</a>
 
-* <u>Zheng, Y.</u>, Wang, S.*, Liu, L., Aloisi, J. & Zhao, J. (2021). **Impacts of remote work on vehicle miles traveled and transit ridership in the United States**. Under review in <i> Nature Cities</i>.
+* <u>Zheng, Y.</u>, Wang, S.*, Liu, L., Aloisi, J. & Zhao, J.  **Impacts of remote work on vehicle miles traveled and transit ridership in the United States**. Under review in <i> Nature Cities</i>.
+
+* <sup>Wang, S.<sup>*, <u><sup>Zheng, Y.<sup></u>, Wang, G., Yabe, T., Moro, E.* & Pentland, A.  **Infrequent activities predict economic outcomes in major American cities**. Under review in <i> Nature Cities</i>.
 
 ## Travel Decisions and Demand Modeling
 * <u>Zheng, Y.</u>, Kong, H.*, Petzhold, G., Barcelos, M. M., Zegras, C. P., & Zhao, J. (2021). **User satisfaction and service quality improvement priority of bus rapid transit in Belo Horizonte, Brazil**. <i> Case Studies on Transport Policy, 9</i> (4), 1900-1911. <a href="https://doi.org/10.1016/j.cstp.2021.10.011"> [Paper]</a>
