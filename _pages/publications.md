@@ -16,11 +16,11 @@ These works provide an overview of my research.
   <figcaption>Figure 1: Your Figure Caption</figcaption>
 </figure> -->
 
-* <u>Zheng, Y.*</u>, Wang, S., & Zhao, J. (2021). **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**. <i> Transportation Research Part C: Emerging Technologies, 132,</i> 103410. <a href="https://doi.org/10.1016/j.trc.2021.103410"> [Paper]</a>
+* <u>Zheng, Y.</u>, Wang, S.*, & Zhao, J. (2021). **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**. <i> Transportation Research Part C: Emerging Technologies, 132,</i> 103410. <a href="https://doi.org/10.1016/j.trc.2021.103410"> [Paper]</a>
 
 * <u>Zheng, Y.</u>, Wang, Q., Zhuang, D., Wang, S.*, & Zhao, J. (2023). **Fairness-enhancing deep learning for ride-hailing demand prediction**. <i> IEEE Open Journal of Intelligent Transportation Systems, 4, </i> 551 - 569. <a href="https://doi.org/10.1109/OJITS.2023.3297517"> [Paper]</a>
 
-* Guo, X., Xu, H., Zhuang, D., <u>Zheng, Y.</u>, & Zhao, J. (2023). Fairness-Enhancing Vehicle Rebalancing in the Ride-hailing System.  <i> arXiv preprint arXiv:2401.00093. </i> <a href="https://arxiv.org/abs/2401.00093"> [Paper]</a>
+* Guo, X., Xu, H., Zhuang, D., <u>Zheng, Y.*</u>, & Zhao, J. (2023). Fairness-Enhancing Vehicle Rebalancing in the Ride-hailing System.  Under review in <i> Transportation Research Part A: Policy and Practice</i>. <a href="https://arxiv.org/abs/2401.00093"> [Paper]</a>
 
 ## Transportation Economics and Policy
 * <u>Zheng, Y.*</u>, Meredith-Karam, P., Stewart, A., Kong, H., & Zhao, J. (2023). **Impacts of congestion pricing on ride-hailing ridership: Evidence from Chicago**. <i> Transportation Research Part A: Policy and Practice, 170,</i> 103639. <a href="https://doi.org/10.1016/j.tra.2023.103639"> [Paper]</a>
