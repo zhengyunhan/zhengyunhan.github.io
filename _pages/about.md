@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc associate at the Singapore-MIT Alliance for Research and Technology (SMART). I earned my Ph.D. in Transportation from MIT in 2024 and completed dual Master's degrees in City Planning and Transportation at MIT in 2021, advised by Prof. Jinhua Zhao [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). Prior to my time at MIT, I obtained dual Bachelor's degrees in Urban Management and Economics from Peking University.
+I am currently a postdoc associate at the Singapore-MIT Alliance for Research and Technology (SMART). I earned my Ph.D. in Transportation from MIT in 2024 and completed dual Master's degrees in City Planning and Transportation at MIT in 2021, advised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). Prior to my time at MIT, I obtained dual Bachelor's degrees in Urban Management and Economics from Peking University.
 
 My research area is the intersection of **Causal Inference**, **Urban Computing**, and **Travel Decisions**:
 

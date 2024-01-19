@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-These works provide an overview of my research.
+These works provide an overview of my research. (* indicates the corresponding author).
 ## Fairness-Enhancing Machine Learning 
 
 <!-- ![text](/images/profile.png){: .align-left width="100px"; padding-right: "20px"} -->
