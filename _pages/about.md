@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently a postdoc associate at the Singapore-MIT Alliance for Research and Technology (SMART). I earned my Ph.D. in Transportation from MIT in 2024 and completed dual Master's degrees in City Planning and Transportation at MIT in 2021, advised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). Prior to my time at MIT, I obtained dual Bachelor's degrees in Urban Management and Economics from Peking University.
 
+[News] My co-first-authored paper with Prof. [Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/), "Infrequent Activities Predict Economic Outcomes in Major American Cities", has been accepted by <i> Nature Cities</i>!
+
 My research area is the intersection of **Causal Inference**, **Urban Computing**, and **Travel Decisions**:
 
 * **Causal Inference, Transportation Economics and Policy**: Leveraging advanced causal inference methods for the assessment of emerging transportation tools like congestion pricing, EV charging infrastructure, and teleworking on mobility, environment, economy, and social equity.
