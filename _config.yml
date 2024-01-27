@@ -308,6 +308,6 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs: production
 
 remote_theme: yaoyao-liu/minimal-light
