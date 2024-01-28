@@ -20,10 +20,10 @@ My research area is the intersection of **Causal Inference**, **Urban Computing*
 <p style="color:red">I am currently seeking highly motivated summer research assistant students for 2024. Interested candidates are strongly encouraged to contact me via email, along with their resume and transcripts. </p>
 
 ## News
-* [2024-01] My co-first-authored paper with Prof. [Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/), "Infrequent Activities Predict Economic Outcomes in Major American Cities", has been accepted by <i> Nature Cities</i>!
-* [2023-11] Our paper  "Deep hybrid model with satellite imagery: how to combine demand modeling and computer vision for travel behavior analysis" has been accepted by <i> Transportation Research Part B: Methodological</i>!
-* [2023-07] My first-authored paper  "Fairness-enhancing deep learning for ride-hailing demand prediction" has been accepted by <i> IEEE Open Journal of Intelligent Transportation Systems</i>!
-* [2023-06] My first-authored paper  "Examining the interactions between working from home, travel behavior and change in car ownership due to the impact of COVID-19" has been accepted by <i> Travel Behaviour and Society</i>!
-* [2023-03] My first-authored paper  "Impacts of congestion pricing on ride-hailing ridership: evidence from Chicago" has been accepted by <i> Transportation Research Part A: Policy and Practice</i>!
+* **[2024-01]** My co-first-authored paper with Prof. [Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/), "Infrequent Activities Predict Economic Outcomes in Major American Cities", has been accepted by <i> Nature Cities</i>!
+* **[2023-11]** Our paper  "Deep hybrid model with satellite imagery: how to combine demand modeling and computer vision for travel behavior analysis" has been accepted by <i> Transportation Research Part B: Methodological</i>!
+* **[2023-07]** My first-authored paper  "Fairness-enhancing deep learning for ride-hailing demand prediction" has been accepted by <i> IEEE Open Journal of Intelligent Transportation Systems</i>!
+* **[2023-06]** My first-authored paper  "Examining the interactions between working from home, travel behavior and change in car ownership due to the impact of COVID-19" has been accepted by <i> Travel Behaviour and Society</i>!
+* **[2023-03]** My first-authored paper  "Impacts of congestion pricing on ride-hailing ridership: evidence from Chicago" has been accepted by <i> Transportation Research Part A: Policy and Practice</i>!
 
 <!-- My research focuses on (1) causal inference in urban economics and transportation and (2) enhancing machine learning fairness in transportation planning and policy-making.  My previous research involves using causal inference methods to assess the impacts of emerging transportation tools like congestion pricing, EV charging infrastructure, and teleworking on mobility, environment, economy, and social equity. I am also committed to developing bias-mitigation algorithms to enhance fairness and equity in travel behavior analysis and demand prediction. -->
