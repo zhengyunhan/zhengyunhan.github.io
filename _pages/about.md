@@ -28,4 +28,14 @@ My research area is the intersection of **Causal Inference**, **Urban Computing*
 
 <!-- My research focuses on (1) causal inference in urban economics and transportation and (2) enhancing machine learning fairness in transportation planning and policy-making.  My previous research involves using causal inference methods to assess the impacts of emerging transportation tools like congestion pricing, EV charging infrastructure, and teleworking on mobility, environment, economy, and social equity. I am also committed to developing bias-mitigation algorithms to enhance fairness and equity in travel behavior analysis and demand prediction. -->
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sjs1mJMEY-iiWesXdloOTpmL30elg6qZhqavfpQkTyk"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sjs1mJMEY-iiWesXdloOTpmL30elg6qZhqavfpQkTyk"></script> -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G0CH6XX06S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G0CH6XX06S');
+</script>
