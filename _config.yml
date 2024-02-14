@@ -310,5 +310,5 @@ compress_html:
   ignore:
     envs: production
 
-remote_theme: yaoyao-liu/minimal-light
+# remote_theme: yaoyao-liu/minimal-light
 
