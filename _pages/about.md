@@ -20,7 +20,7 @@ My research area is the intersection of **Causal Inference**, **Urban Computing*
 <p style="color:red">I am currently seeking highly motivated summer research assistant students for 2024. Interested candidates are strongly encouraged to contact me via email, along with their resume and transcripts. </p>
 
 ## News
-* **[2024-02]** My first-authored paper "Impacts of remote work on vehicle miles traveled and transit ridership in the United States", has been accepted by <i> Nature Cities</i>!
+* **[2024-02]** My paper "Impacts of remote work on vehicle miles traveled and transit ridership in the United States", has been accepted by <i> Nature Cities</i>!
 * **[2024-01]** My co-first-authored paper with Prof. [Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/), "Infrequent Activities Predict Economic Outcomes in Major American Cities", has been accepted by <i> Nature Cities</i>!
 * **[2023-11]** Our paper  "Deep hybrid model with satellite imagery: how to combine demand modeling and computer vision for travel behavior analysis" has been accepted by <i> Transportation Research Part B: Methodological</i>!
 * **[2023-07]** My first-authored paper  "Fairness-enhancing deep learning for ride-hailing demand prediction" has been accepted by <i> IEEE Open Journal of Intelligent Transportation Systems</i>!
