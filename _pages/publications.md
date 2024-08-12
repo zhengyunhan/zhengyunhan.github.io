@@ -9,11 +9,11 @@ These works provide an overview of my research.
 ( * indicates the corresponding author.)
 
 ## Transportation Economics and Policy
-* <u>Zheng, Y.</u>, Wang, S.*, Liu, L., Aloisi, J. & Zhao, J.  **Impacts of remote work on vehicle miles traveled and transit ridership in the United States**. Accepted by <i> Nature Cities</i>.
+* <u>Zheng, Y.*</u>, Keith, D., Wang, S., Mi, D. & Zhao, J.  **Effects of electric vehicle charging stations on the economic vitality of local businesses**. (2024). Accepted by <i> Nature Communications</i>.
 
-* Wang, S.<sup>1</sup><span>&#42;</span>, <u>Zheng, Y.<sup>1</sup></u>, Wang, G., Yabe, T., Moro, E.<span>&#42;</span> & Pentland, A.  **Infrequent activities predict economic outcomes in major American cities**. Accepted by <i> Nature Cities</i>. ( <sup>1</sup> indicates the co-first authors.)
+* <u>Zheng, Y.</u>, Wang, S.*, Liu, L., Aloisi, J. & Zhao, J. (2024). **Impacts of remote work on vehicle miles traveled and transit ridership in the United States**. <i> Nature Cities</i>, 1, 346–358. <a href="https://doi.org/10.1038/s44284-024-00057-1"> [Paper]</a>
 
-* <u>Zheng, Y.*</u>, Meredith-Karam, P., Stewart, A., Kong, H., & Zhao, J. (2023). **Impacts of congestion pricing on ride-hailing ridership: Evidence from Chicago**. <i> Transportation Research Part A: Policy and Practice, 170,</i> 103639. <a href="https://doi.org/10.1016/j.tra.2023.103639"> [Paper]</a>
+* Wang, S.<sup>1</sup><span>&#42;</span>, <u>Zheng, Y.<sup>1</sup></u>, Wang, G., Yabe, T., Moro, E.<span>&#42;</span> & Pentland, A. (2024). **Infrequent activities predict economic outcomes in major American cities**. <i> Nature Cities</i>, 1(4), 305-314. <a href="https://doi.org/10.1038/s44284-024-00051-7"> [Paper]</a> ( <sup>1</sup> indicates the co-first authors.)
 
 * <u>Zheng, Y.</u>, Moody, J., Wang, S., & Zhao, J*. (2021). **Measuring policy leakage of Beijing’s car ownership restriction**.  <i> Transportation Research Part A: Policy and Practice, 148,</i> 223-236. <a href="https://doi.org/10.1016/j.tra.2021.03.008"> [Paper]</a>
 
