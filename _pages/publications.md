@@ -9,9 +9,9 @@ These works provide an overview of my research.
 ( * indicates the corresponding author.)
 
 ## Transportation Economics and Policy
-* <u>Zheng, Y.*</u>, Keith, D., Wang, S., Mi, D. & Zhao, J.  **Effects of electric vehicle charging stations on the economic vitality of local businesses**. (2024). Accepted by <i> Nature Communications</i>.
+* <u>Zheng, Y.*</u>, Keith, D., Wang, S., Mi, D. & Zhao, J.  **Effects of electric vehicle charging stations on the economic vitality of local businesses**. (2024). <i> Nature Communications</i>, 15, 7437. <a href="https://www.nature.com/articles/s41467-024-51554-9"> [Paper]</a> <a href="https://news.mit.edu/2024/study-ev-charging-stations-boost-nearby-business-spending-0904"> [MIT News]</a>
 
-* <u>Zheng, Y.</u>, Wang, S.*, Liu, L., Aloisi, J. & Zhao, J. (2024). **Impacts of remote work on vehicle miles traveled and transit ridership in the United States**. <i> Nature Cities</i>, 1, 346–358. <a href="https://doi.org/10.1038/s44284-024-00057-1"> [Paper]</a>
+* <u>Zheng, Y.</u>, Wang, S.*, Liu, L., Aloisi, J. & Zhao, J. (2024). **Impacts of remote work on vehicle miles traveled and transit ridership in the United States**. <i> Nature Cities</i>, 1, 346–358. <a href="https://doi.org/10.1038/s44284-024-00057-1"> [Paper]</a> <a href="https://news.mit.edu/2024/has-remote-work-changed-how-people-travel-0409"> [MIT News]</a>
 
 * Wang, S.<sup>1</sup><span>&#42;</span>, <u>Zheng, Y.<sup>1</sup></u>, Wang, G., Yabe, T., Moro, E.<span>&#42;</span> & Pentland, A. (2024). **Infrequent activities predict economic outcomes in major American cities**. <i> Nature Cities</i>, 1(4), 305-314. <a href="https://doi.org/10.1038/s44284-024-00051-7"> [Paper]</a> ( <sup>1</sup> indicates the co-first authors.)
 
