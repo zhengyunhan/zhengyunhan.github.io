@@ -15,6 +15,8 @@ These works provide an overview of my research.
 
 * Wang, S.<sup>1</sup><span>&#42;</span>, <u>Zheng, Y.<sup>1</sup></u>, Wang, G., Yabe, T., Moro, E.<span>&#42;</span> & Pentland, A. (2024). **Infrequent activities predict economic outcomes in major American cities**. <i> Nature Cities</i>, 1(4), 305-314. <a href="https://doi.org/10.1038/s44284-024-00051-7"> [Paper]</a> ( <sup>1</sup> indicates the co-first authors.)
 
+* <u>Zheng, Y.*</u>, Meredith-Karam, P., Stewart, A., Kong, H., & Zhao, J. (2023). **Impacts of congestion pricing on ride-hailing ridership: Evidence from Chicago**.  <i> Transportation Research Part A: Policy and Practice, 170,</i> 103639. <a href="https://doi.org/10.1016/j.tra.2023.103639"> [Paper]</a>
+
 * <u>Zheng, Y.</u>, Moody, J., Wang, S., & Zhao, J*. (2021). **Measuring policy leakage of Beijing’s car ownership restriction**.  <i> Transportation Research Part A: Policy and Practice, 148,</i> 223-236. <a href="https://doi.org/10.1016/j.tra.2021.03.008"> [Paper]</a> <a href="https://news.mit.edu/2021/car-ownership-china-0608"> [MIT News]</a>
 
 * Fang, W., <u>Zheng, Y.</u>, Diao, M., & Zhao, J. (2021). **Dispersion of agglomeration through high-speed rail in China**. In <i> Urban Form and Accessibility</i> (pp. 327-357). Elsevier. <a href="https://doi.org/10.1016/B978-0-12-819822-3.00012-2"> [Paper]</a>
