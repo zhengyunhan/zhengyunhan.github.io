@@ -17,7 +17,7 @@ My research area is the intersection of **Causal Inference**, **Urban Computing*
 * **Urban Computing and Machine Learning**: Developing machine learning algorithms to predict and nudge travel behaviors; developing bias-mitigation methods to enhance fairness and equity in machine learning algorithms.
 * **Travel Decisions and Urban Network**: Combining statistical modeling, deep learning computation, and network theory for the modeling and analysis of individual travel decisions and urban networks.
 
-<p style="color:red">I am currently seeking highly motivated summer research assistant students for 2024. Interested candidates are strongly encouraged to contact me via email, along with their resume and transcripts. </p>
+<!-- <p style="color:red">I am currently seeking highly motivated summer research assistant students for 2024. Interested candidates are strongly encouraged to contact me via email, along with their resume and transcripts. </p> -->
 
 ## News
 * **[2024-08]** My first-authored paper "Effects of electric vehicle charging stations on the economic vitality of local businesses", has been accepted by <i> Nature Communications</i>!
