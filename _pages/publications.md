@@ -36,7 +36,7 @@ These works provide an overview of my research.
 
 * <u>Zheng, Y.</u>, Wang, Q., Zhuang, D., Wang, S.*, & Zhao, J. (2023). **Fairness-enhancing deep learning for ride-hailing demand prediction**. <i> IEEE Open Journal of Intelligent Transportation Systems, 4, </i> 551 - 569. <a href="https://doi.org/10.1109/OJITS.2023.3297517"> [Paper]</a>
 
-* Guo, X., Xu, H., Zhuang, D., <u>Zheng, Y.*</u>, & Zhao, J. (2023). **Fairness-Enhancing Vehicle Rebalancing in the Ride-hailing System**.  Under review in <i> Transportation Research Part A: Policy and Practice</i>. <a href="https://arxiv.org/abs/2401.00093"> [Paper]</a>
+* Guo, X., Xu, H., Zhuang, D., <u>Zheng, Y.*</u>, & Zhao, J. (2023). **Fairness-Enhancing Vehicle Rebalancing in the Ride-hailing System**.  Under review in <i> Transportation Research Part C: Emerging Technologies</i>. <a href="https://arxiv.org/abs/2401.00093"> [Paper]</a>
 
 ## Travel Decisions and Demand Modeling
 * <u>Zheng, Y.</u>, Kong, H.*, Petzhold, G., Barcelos, M. M., Zegras, C. P., & Zhao, J. (2021). **User satisfaction and service quality improvement priority of bus rapid transit in Belo Horizonte, Brazil**. <i> Case Studies on Transport Policy, 9</i> (4), 1900-1911. <a href="https://doi.org/10.1016/j.cstp.2021.10.011"> [Paper]</a>
