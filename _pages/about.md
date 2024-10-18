@@ -20,6 +20,7 @@ My research area is the intersection of **Causal Inference**, **Urban Computing*
 <!-- <p style="color:red">I am currently seeking highly motivated summer research assistant students for 2024. Interested candidates are strongly encouraged to contact me via email, along with their resume and transcripts. </p> -->
 
 ## News
+* **[2024-10]** Our <i> Nature Communications</i> paper has been reported by <i> [The Washington Post](https://www.washingtonpost.com/climate-solutions/2024/10/14/ev-charging-station-business-boost/)</i> and <i> [CBC News](https://www.cbc.ca/news/science/what-on-earth-ev-chargers-1.7354629)</i>!
 * **[2024-08]** My first-authored paper "Effects of electric vehicle charging stations on the economic vitality of local businesses", has been accepted by <i> Nature Communications</i>!
 * **[2024-02]** My first-authored paper "Impacts of remote work on vehicle miles traveled and transit ridership in the United States", has been accepted by <i> Nature Cities</i>!
 * **[2024-01]** My co-first-authored paper with Prof. [Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/), "Infrequent Activities Predict Economic Outcomes in Major American Cities", has been accepted by <i> Nature Cities</i>!
