@@ -38,7 +38,7 @@ These works provide an overview of my research.
 
 * Guo, X., Xu, H., Zhuang, D., <u>Zheng, Y.*</u>, & Zhao, J. (2023). **Fairness-Enhancing Vehicle Rebalancing in the Ride-hailing System**.  Under review in <i> Transportation Research Part C: Emerging Technologies</i>. <a href="https://arxiv.org/abs/2401.00093"> [Paper]</a>
 
-## Travel Decisions and Demand Modeling
+## Travel Decisions and Intelligent Transportation System
 * <u>Zheng, Y.</u>, Kong, H.*, Petzhold, G., Barcelos, M. M., Zegras, C. P., & Zhao, J. (2021). **User satisfaction and service quality improvement priority of bus rapid transit in Belo Horizonte, Brazil**. <i> Case Studies on Transport Policy, 9</i> (4), 1900-1911. <a href="https://doi.org/10.1016/j.cstp.2021.10.011"> [Paper]</a>
 
 * <u>Zheng, Y.</u>, Kong, H.*, Petzhold, G., Barcelos, M. M., Zegras, C. P., & Zhao, J. (2022). **Gender differences in the user satisfaction and service quality improvement priority of public transit bus system in Porto Alegre and Fortaleza, Brazil**. <i> Travel Behaviour and Society, 28</i>, 22-37. <a href="https://doi.org/10.1016/j.tbs.2022.02.003"> [Paper]</a>
@@ -46,6 +46,8 @@ These works provide an overview of my research.
 * <u>Zheng, Y.*</u>, Caros, N. S., Aloisi, J., & Zhao, J. (2023). **Examining the interactions between working from home, travel behavior and change in car ownership due to the impact of COVID-19**. <i> Travel Behaviour and Society, 33</i>, 100634. <a href="https://doi.org/10.1016/j.tbs.2023.100634"> [Paper]</a>
 
 * Wang, Q., Wang, S.*, <u>Zheng, Y.</u>, Lin, H., Zhang, X., Zhao, J., & Walker, J. (2024). **Deep hybrid model with satellite imagery: How to combine demand modeling and computer vision for travel behavior analysis?**. <i> Transportation Research Part B: Methodological, 179</i>, 102869. <a href="https://doi.org/10.1016/j.trb.2023.102869"> [Paper]</a>
+
+* Wang, S.*, Mo, B., <u>Zheng, Y.</u>, Hess, S., & Zhao, J. (2024). **Comparing hundreds of machine learning and discrete choice models for travel demand modeling: An empirical benchmark**. <i> Transportation Research Part B: Methodological, 190</i>, 103061. <a href="https://doi.org/10.1016/j.trb.2024.103061"> [Paper]</a>
 
 
 
