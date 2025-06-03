@@ -19,7 +19,7 @@ These works provide an overview of my research.
 
 * <u>Zheng, Y.</u>, Moody, J., Wang, S., & Zhao, J*. (2021). **Measuring policy leakage of Beijing’s car ownership restriction**.  <i> Transportation Research Part A: Policy and Practice, 148,</i> 223-236. <a href="https://doi.org/10.1016/j.tra.2021.03.008"> [Paper]</a> <a href="https://news.mit.edu/2021/car-ownership-china-0608"> [MIT News]</a>
 
-* Yang, M., <u>Zheng, Y.*</u>, Wang, S., Guo, X., & Zhao, J. (2023). **Impacts of the built environment on remote work choices and preferences**.  <i> Cities, 170,</i> 103639. <a href="https://doi.org/10.1016/j.cities.2025.106034"> [Paper]</a>
+* Yang, M., <u>Zheng, Y.*</u>, Wang, S., Guo, X., & Zhao, J. (2025). **Impacts of the built environment on remote work choices and preferences**.  <i> Cities, 170,</i> 103639. <a href="https://doi.org/10.1016/j.cities.2025.106034"> [Paper]</a>
 
 * Fang, W., <u>Zheng, Y.</u>, Diao, M., & Zhao, J. (2021). **Dispersion of agglomeration through high-speed rail in China**. In <i> Urban Form and Accessibility</i> (pp. 327-357). Elsevier. <a href="https://doi.org/10.1016/B978-0-12-819822-3.00012-2"> [Paper]</a>
 
