@@ -19,11 +19,13 @@ These works provide an overview of my research.
 
 * <u>Zheng, Y.</u>, Moody, J., Wang, S., & Zhao, J*. (2021). **Measuring policy leakage of Beijing’s car ownership restriction**.  <i> Transportation Research Part A: Policy and Practice, 148,</i> 223-236. <a href="https://doi.org/10.1016/j.tra.2021.03.008"> [Paper]</a> <a href="https://news.mit.edu/2021/car-ownership-china-0608"> [MIT News]</a>
 
+* Yang, M., <u>Zheng, Y.*</u>, Wang, S., Guo, X., & Zhao, J. (2023). **Impacts of the built environment on remote work choices and preferences**.  <i> Cities, 170,</i> 103639. <a href="https://doi.org/10.1016/j.cities.2025.106034"> [Paper]</a>
+
 * Fang, W., <u>Zheng, Y.</u>, Diao, M., & Zhao, J. (2021). **Dispersion of agglomeration through high-speed rail in China**. In <i> Urban Form and Accessibility</i> (pp. 327-357). Elsevier. <a href="https://doi.org/10.1016/B978-0-12-819822-3.00012-2"> [Paper]</a>
 
 
 
-## Fairness-Enhancing Machine Learning 
+## Ethical AI in Travel Modeling
 
 <!-- ![text](/images/profile.png){: .align-left width="100px"; padding-right: "20px"} -->
 
@@ -35,6 +37,8 @@ These works provide an overview of my research.
 * <u>Zheng, Y.</u>, Wang, S.*, & Zhao, J. (2021). **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**. <i> Transportation Research Part C: Emerging Technologies, 132,</i> 103410. <a href="https://doi.org/10.1016/j.trc.2021.103410"> [Paper]</a>
 
 * <u>Zheng, Y.</u>, Wang, Q., Zhuang, D., Wang, S.*, & Zhao, J. (2023). **Fairness-enhancing deep learning for ride-hailing demand prediction**. <i> IEEE Open Journal of Intelligent Transportation Systems, 4, </i> 551 - 569. <a href="https://doi.org/10.1109/OJITS.2023.3297517"> [Paper]</a>
+
+* Mo, B., <u>Zheng, Y.*</u>, Guo, X., Ma, R., & Zhao, J. (2025). **Robust binary and multinomial logit models for classification with data uncertainties**. <i> European Journal of Operational Research</i>. <a href="https://doi.org/10.1016/j.ejor.2025.05.013"> [Paper]</a>
 
 * Guo, X., Xu, H., Zhuang, D., <u>Zheng, Y.*</u>, & Zhao, J. (2023). **Fairness-Enhancing Vehicle Rebalancing in the Ride-hailing System**.  Under review in <i> Transportation Research Part C: Emerging Technologies</i>. <a href="https://arxiv.org/abs/2401.00093"> [Paper]</a>
 
