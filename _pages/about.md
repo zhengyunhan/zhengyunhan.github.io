@@ -10,14 +10,6 @@ redirect_from:
 
 I am currently an Assistant Professor at the College of Urban and Environmental Sciences, Peking University ([official profile](https://ues.pku.edu.cn/jszy/zyh/zhygrjl/b674e00d82d14bf4bdf1c428f26c5885.htm)). Previously, I was a Postdoctoral Associate at the Singapore–MIT Alliance for Research and Technology (SMART). I earned my Ph.D. in Transportation from MIT in 2024 and completed dual Master's degrees in City Planning and Transportation at MIT in 2021, advised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). Prior to my time at MIT, I obtained dual Bachelor's degrees in Urban Management and Economics from Peking University.
 
-<p style="color:red">
-I am currently seeking one PhD student for Fall 2026. 
-Please find the details 
-<a href="https://www.linkedin.com/posts/yunhan-zheng-6b5274140_yunhan-zheng-activity-7385336991292391424--HXu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACI17ekB4WLpjb9ujYM63DM4p8DsuCCt8Gw" target="_blank">here</a>. 
-If you are interested, please email your CV and a short summary of your research experience and future interests to 
-<a href="mailto:yunhan@pku.edu.cn">yunhan@pku.edu.cn</a>.
-</p>
-
 
 
 My research area is the intersection of **Causal Inference**, **Urban Computing**, and **Travel Decisions**:
@@ -25,6 +17,14 @@ My research area is the intersection of **Causal Inference**, **Urban Computing*
 * **Causal Inference, Transportation Economics and Policy**: Leveraging advanced causal inference methods for the assessment of emerging transportation tools like congestion pricing, EV charging infrastructure, and teleworking on mobility, environment, economy, and social equity.
 * **Urban Computing and Machine Learning**: Developing machine learning algorithms to predict and nudge travel behaviors; developing bias-mitigation methods to enhance fairness and equity in machine learning algorithms.
 * **Travel Decisions and Urban Network**: Combining statistical modeling, deep learning computation, and network theory for the modeling and analysis of individual travel decisions and urban networks.
+
+<p style="color:red">
+I am currently seeking one PhD student for Fall 2026. 
+Please find the details 
+<a href="https://www.linkedin.com/posts/yunhan-zheng-6b5274140_yunhan-zheng-activity-7385336991292391424--HXu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACI17ekB4WLpjb9ujYM63DM4p8DsuCCt8Gw" target="_blank">here</a>. 
+If you are interested, please email your CV and a short summary of your research experience and future interests to 
+<a href="mailto:yunhan@pku.edu.cn">yunhan@pku.edu.cn</a>.
+</p>
 
 
 ## News
